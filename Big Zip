@@ -1,0 +1,14 @@
+Problem Name: Big Zip
+url: https://play.picoctf.org/practice/challenge/322?assigned=0&difficulty=1&page=2&solved=0
+
+# Download .zip file & unzip file.
+
+Then search what you need..
+
+
+grep -r "Text_name"
+
+or,
+
+grep -rh "Text_name"
+
